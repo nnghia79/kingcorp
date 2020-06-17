@@ -1,0 +1,8 @@
+Origin: Privated Repo
+Label: Kingcorp
+Suite: stable
+Version: 1.0
+Codename: Kingteam
+Architectures: iphoneos-arm
+Components: main
+Description: Kingcorp Group

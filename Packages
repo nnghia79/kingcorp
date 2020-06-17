@@ -1,0 +1,18 @@
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Name: AutoTouch with inputText
+Description: Record and playback touch operations, play macro scripts automatically.
+Section: Utilities
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Priority: optional
+Architecture: iphoneos-arm
+Author: Kingcorp
+Homepage: Kingcorp
+Maintainer: Kingcorp
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Version: 6.1.8-2k
+Installed-Size: 100716
+Filename: ./debs/AutoTouch_6.1.8-2.deb
+Size: 44502568
+MD5sum: 917f6d6a4cf1b1b567127af4ae6fb005
+SHA1: e4565646b499acc636e393ca76f79b8d2c69d04b
